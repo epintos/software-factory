@@ -1,7 +1,7 @@
 Distribution of programmers in a Sofware Factory.
 =============================================================
 
-Systems Simulation - ITBA - 2013
+Final Project for Systems Simulation course at ITBA. Year 2013
 
 
 ## Instructions
